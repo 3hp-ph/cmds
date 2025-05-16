@@ -1,0 +1,1 @@
+@start "Anki" "C:\Users\fliph\AppData\Local\Programs\Anki\anki.exe"

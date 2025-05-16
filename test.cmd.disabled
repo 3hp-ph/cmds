@@ -1,0 +1,16 @@
+@echo off
+setlocal
+
+echo %DATE%
+echo %TIME%
+echo %USERNAME%
+echo %USERPROFILE%
+echo %SYSTEMROOT%
+echo %TEMP%
+echo %COMPUTERNAME%
+echo %OS%
+echo %PROCESSOR_ARCHITECTURE%
+echo %NUMBER_OF_PROCESSORS%
+echo %CD%
+
+endlocal

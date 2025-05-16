@@ -1,0 +1,1 @@
+@fflink "https://web.whatsapp.com/send/?phone=%1&text&type=phone_number&app_absent=0"

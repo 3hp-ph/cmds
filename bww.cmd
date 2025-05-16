@@ -1,0 +1,1 @@
+@start "" "D:\Anwendungen\meins\cmds\res\unlock_bitwarden_web.ahk"

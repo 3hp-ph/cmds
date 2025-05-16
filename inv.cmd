@@ -1,0 +1,1 @@
+@fflink "https://homeportal.hs-merseburg.de/dispatch.php/course/overview?cid=b483c29ed71685d9c6876300341bda21"

@@ -1,0 +1,1 @@
+@start "C:\Program Files\Mozilla Firefox" firefox.exe "https://homeportal.hs-merseburg.de/index.php?again=yes"
