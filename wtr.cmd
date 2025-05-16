@@ -1,1 +1,1 @@
-@start "C:\Program Files\Mozilla Firefox" firefox.exe "https://www.google.com/search?hl=de&q=Wetter Halle"
+@start "C:\Program Files\Mozilla Firefox" firefox.exe "https://unduck.link/?q=Wetter Halle"
